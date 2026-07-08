@@ -1,0 +1,11 @@
+{
+  "name": "ankit-portfolio",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "buildCommand": "npm run build",
+  "outputDirectory": "./dist"
+}
